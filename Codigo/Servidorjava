@@ -1,0 +1,40 @@
+// class
+// class Servidor {
+
+        // Propiedades
+        int NumeroCpus; --> numero entero  int en java
+        int memoria;
+        int numeroDeDiscos;
+        string nombre;
+        List<String> ips;
+    
+public class Servidor{
+
+     public static void main(String[] args){
+     
+        Sytem.out.println("Hola");
+     
+     }
+     
+}
+        
+ //      // Operaciones/Funciones
+        
+        
+
+
+}
+
+
+3 //Numero   + - */ valor absoluto raiz cuadrada, redondeo
+
+Ivan  //Texto  transformar a mayusculas o minúsculas, recortar texto
+
+true  //Valor lógico
+
+
+tipos de datos: enteros, lógicos, decimales, fechas 
+
+tipo de dato no standard por ejemplo: cuenta corriente: saldo, ingreso, cargo
+
+    empleado: darle vacaciones, conocer la edad, pagarle, asignarle una formacion
